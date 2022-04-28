@@ -95,5 +95,6 @@ public class NamesList {
     public static void main(String[] args) {
         NamesList app = new NamesList();
         app.startUserInterface();
+
     }
 }
